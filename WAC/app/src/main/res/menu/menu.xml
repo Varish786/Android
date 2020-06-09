@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/dp"
+        android:title="profile1"
+        android:icon="@drawable/person"
+        app:showAsAction="always"
+        />
+
+
+    <item
+        android:id="@+id/iten1"
+        android:title="Dashboard"
+
+        />
+    <item
+        android:id="@+id/iten2"
+        android:title="Profile"
+
+        />
+    <item
+        android:id="@+id/iten3"
+        android:title="Forum"
+
+        />
+    <item
+        android:id="@+id/iten4"
+        android:title="Coures"
+
+        />
+    <item
+        android:id="@+id/iten5"
+        android:title="Setting"
+
+        />
+    <item
+        android:id="@+id/iten6"
+        android:title="Log out"
+
+        />
+</menu>

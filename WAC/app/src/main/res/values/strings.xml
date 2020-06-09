@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WAC</string>
+    <string name="contentlogo">content_logo</string>
+    <string name="user_name">User Name</string>
+    <string name="user_password">Password</string>
+    <string name="or_with">or With</string>
+    <string name="todo2">TODO</string>
+    <string name="google">Google</string>
+    <string name="account">Create an Account ? Sing Up</string>
+    <string name="fackbook">Fackbook</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email Id</string>
+    <string name="contact_no">Contact No</string>
+    <string name="your_name">Your Name</string>
+    <string name="username">User Name</string>
+    <string name="todo1">TODO</string>
+    <string name="enroll1">Enroll</string>
+    <string name="data_science">Data Science</string>
+    <string name="enroll2">Enroll</string>
+    <string name="machine_learning">Machine Learning</string>
+    <string name="android_development">Android Development</string>
+    <string name="enroll3">Enroll</string>
+    <string name="machine_learing">Machine Learing</string>
+    <string name="enroll4">Enroll</string>
+    <string name="todo">TODO</string>
+</resources>
